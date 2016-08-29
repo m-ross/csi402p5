@@ -1,0 +1,1 @@
+The arguments this program required are an absolute or relative path to a directory and following that, an optional flag of "-s". The program prints to stdout the name, size in bytes, and date modified of each file in the directory. The output is sorted by increasing order of date modified if the flag is specified.
